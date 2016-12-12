@@ -4,3 +4,5 @@
 
 Final IPython notebook and presentation included.  
 
+[My kaggle profile](https://www.kaggle.com/goldenstate)
+
