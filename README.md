@@ -1,6 +1,6 @@
 # Kaggle_Airbnb
 
-Predicting AirBnb new user bookings with scikit-learn.
+Predicting Airbnb new user bookings with scikit-learn.
 
 [Competition Homepage](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings)
 
